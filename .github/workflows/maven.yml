@@ -15,4 +15,4 @@ distribution: 'temurin'
 java-version: '11'
 - name: Build using Maven
 run: mvn clean install
-working-directory: NEWMAVEN
+working-directory: NEWMAVEN/demo
